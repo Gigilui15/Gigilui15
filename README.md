@@ -1,6 +1,6 @@
 ### Hi there 👋
-##🔭 I’m currently working on finishing my degree at the University of Malta
-##🌱 I’m currently studying B.Sc.IT Computing and Business
+###🔭 I’m currently working on finishing my degree at the University of Malta
+###🌱 I’m currently studying B.Sc.IT Computing and Business
 <!--
 **Gigilui15/Gigilui15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
