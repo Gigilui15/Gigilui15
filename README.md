@@ -1,6 +1,4 @@
-### Hi there 👋
-🔭 I’m currently working on finishing my degree at the University of Malta
-🌱 I’m currently studying B.Sc.IT Computing and Business
+### 👋 Hi there...building my bio atm ⏳
 <!--
 **Gigilui15/Gigilui15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
