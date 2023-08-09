@@ -2,7 +2,6 @@
 <h1 align="center">Hi, I'm Luigi👋</h1>
 <h3 align="center">A passionate software developer from Malta</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lyem5xdWZ1eDhtNDVldG9qeWY3M2Z4NWNoZWY3N2JmbHR5bjd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-<h3></h3>
 <h4 align="left">- 🔭 I am presently in my third year of pursuing a B.Sc.IT(Hons) Computing and Business at the University of Malta</h4>
 <h4 align="left">- ✈️ International Officer @ICTSA</h4>
 - ⚡ Former Events Officer @ICTSA
@@ -20,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigilui15&show_icons=true&locale=en&layout=compact" alt="gigilui15" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gigilui15&show_icons=true&locale=en" alt="gigilui15" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gigilui15&" alt="gigilui15" /></p>
