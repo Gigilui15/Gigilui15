@@ -5,9 +5,7 @@
 - ⚡ Former Events Officer @ICTSA
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lyem5xdWZ1eDhtNDVldG9qeWY3M2Z4NWNoZWY3N2JmbHR5bjd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gigilui15&label=Profile%20views&color=0e75b6&style=flat" alt="gigilui15" /> </p>
-
-- 🔭 I’m currently in my third year of studying **B.Sc.IT(Hons) Computing and Business at the University of Malta**
+- 🔭 I am presently in my third year of pursuing a **B.Sc.IT(Hons) Computing and Business at the University of Malta**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
